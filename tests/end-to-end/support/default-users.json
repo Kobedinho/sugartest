@@ -1,0 +1,9 @@
+{
+    "admin": "1",
+    "max": "seed_max_id",
+    "sally": "seed_sally_id",
+    "jim": "seed_jim_id",
+    "will": "seed_will_id",
+    "chris": "seed_chris_id",
+    "sarah": "seed_sarah_id"
+}
